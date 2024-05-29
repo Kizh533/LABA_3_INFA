@@ -190,7 +190,7 @@ class EnemySpaceShip(Enemy):
         # Set up parent class
         super().__init__("enemy_space_ship", "enemy_space_ship")
         self.type = 4
-        self.health = 550
+        self.health = 600
         self.enemy_score = 1000
 
 
