@@ -180,7 +180,7 @@ class GolemEnemy(Enemy):
         # Set up parent class
         super().__init__("golem", "golem")
         self.type = 3
-        self.health = 250
+        self.health = 200
         self.enemy_score = 200
 
 
